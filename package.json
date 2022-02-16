@@ -2,7 +2,7 @@
   "name": "currency-converter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://EugeniaKolodeichuk.github.io/currency-converter",
+  "homepage": "https://EugeniaKolodeichuk.github.io/currency-converter",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",

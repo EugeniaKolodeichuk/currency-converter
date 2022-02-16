@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Converter from "./components/Converter/Converter";
 
 const BASE_URL =
-  "http://api.exchangeratesapi.io/v1/latest?access_key=c19a56915081430533df0a783e103977";
+  "https://api.exchangeratesapi.io/v1/latest?access_key=c19a56915081430533df0a783e103977";
 
 function App() {
   const [options, setOptions] = useState([]);
