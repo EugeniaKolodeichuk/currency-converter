@@ -3,8 +3,37 @@
   border-radius: 0.3em;
   padding: 0.25rem;
   width: 7em;
+  height: 25px;
 }
 
 .select {
   margin-left: 0.5rem;
+  border: 1px solid #333;
+  border-radius: 0.3em;
+  padding: 0.25rem;
+  width: 7em;
+}
+
+.converter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+  text-align: center;
+}
+
+.title {
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.container {
+  margin: 15px 0;
 }

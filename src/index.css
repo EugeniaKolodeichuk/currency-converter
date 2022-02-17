@@ -5,25 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  text-align: center;
+  background-image: url(../static/1.png);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
-}
-
-h1 {
-  margin: 0;
-  margin-bottom: 0.5rem;
-}
-
-.equals {
-  font-weight: bold;
-  font-size: 18px;
-  padding: 10px;
 }

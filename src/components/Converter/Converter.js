@@ -1,4 +1,3 @@
-import React from "react";
 import shortid from "shortid";
 import style from "./Converter.module.css";
 
@@ -11,7 +10,7 @@ export default function Converter(props) {
     onChangeAmount,
   } = props;
   return (
-    <div>
+    <div className={style.container}>
       <input
         type="number"
         value={amount}
