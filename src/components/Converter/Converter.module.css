@@ -3,7 +3,8 @@
   border-radius: 0.3em;
   padding: 0.25rem;
   width: 7em;
-  height: 25px;
+  height: 17px;
+  font-size: 16px;
 }
 
 .select {
@@ -11,7 +12,7 @@
   border: 1px solid #333;
   border-radius: 0.3em;
   padding: 0.25rem;
-  width: 7em;
+  width: 5em;
 }
 
 .converter {
